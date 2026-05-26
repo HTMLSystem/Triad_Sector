@@ -906,3 +906,14 @@ Entries:
   id: 2227
   time: '2026-05-26T04:19:31.0000000+00:00'
   url: https://github.com/Triad-Sector/Triad_Sector/pull/126
+- author: TheRealMasterChief117
+  changes:
+    - type: Tweak
+      message: >-
+        Disablers now deal 0 heat damage. As a result of this, pacifists can now
+        use disablers.
+    - type: Tweak
+      message: Practice weapons can now be used by pacifists.
+  id: 2228
+  time: '2026-05-26T04:25:28.0000000+00:00'
+  url: https://github.com/Triad-Sector/Triad_Sector/pull/113
