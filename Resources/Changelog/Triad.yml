@@ -1028,3 +1028,10 @@ Entries:
   id: 2241
   time: '2026-05-30T17:18:35.0000000+00:00'
   url: https://github.com/Triad-Sector/Triad_Sector/pull/154
+- author: Wuffindy
+  changes:
+    - type: Tweak
+      message: STC can now use the communication console
+  id: 2242
+  time: '2026-05-30T17:20:05.0000000+00:00'
+  url: https://github.com/Triad-Sector/Triad_Sector/pull/163
