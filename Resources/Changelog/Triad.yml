@@ -1282,3 +1282,12 @@ Entries:
   id: 2268
   time: '2026-06-07T04:19:57.0000000+00:00'
   url: https://github.com/Triad-Sector/Triad_Sector/pull/190
+- author: Upstream
+  changes:
+    - type: Tweak
+      message: >-
+        Security cameras now have a new sprite and animation ported from
+        Wizard's Den.
+  id: 2269
+  time: '2026-06-07T22:31:00.0000000+00:00'
+  url: https://github.com/Triad-Sector/Triad_Sector/pull/178
