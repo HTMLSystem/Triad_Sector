@@ -1325,3 +1325,14 @@ Entries:
   id: 2272
   time: '2026-06-08T20:08:27.0000000+00:00'
   url: https://github.com/Triad-Sector/Triad_Sector/pull/185
+- author: IrkallaEpsilon
+  changes:
+    - type: Remove
+      message: >-
+        Removed fun! A ship saving compatibility issue mainly with actor
+        components applied to anchored hydroponics trays. Oh they also keep
+        genning ghost roles on parental plants according to some places that
+        removed this feature already.
+  id: 2273
+  time: '2026-06-08T23:56:26.0000000+00:00'
+  url: https://github.com/Triad-Sector/Triad_Sector/pull/193
