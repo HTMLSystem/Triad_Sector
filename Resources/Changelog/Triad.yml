@@ -1407,3 +1407,22 @@ Entries:
   id: 2281
   time: '2026-06-10T13:47:35.0000000+00:00'
   url: https://github.com/Triad-Sector/Triad_Sector/pull/201
+- author: rebaserHEAD
+  changes:
+    - type: Fix
+      message: >-
+        Fixed an error when queueing a lathe recipe for a material the lathe
+        does not currently have stocked.
+    - type: Fix
+      message: >-
+        Projectile anomalies no longer fail to fire when they go supercritical
+        with nothing in range.
+    - type: Fix
+      message: Fixed an error that could occur while auto-firing ballistic weapons.
+    - type: Fix
+      message: >-
+        Improved server performance by eliminating several high-frequency
+        internal errors (most notably from ore silos).
+  id: 2282
+  time: '2026-06-10T15:29:25.0000000+00:00'
+  url: https://github.com/Triad-Sector/Triad_Sector/pull/203
