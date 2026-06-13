@@ -1478,3 +1478,10 @@ Entries:
   id: 2288
   time: '2026-06-11T22:51:16.0000000+00:00'
   url: https://github.com/Triad-Sector/Triad_Sector/pull/161
+- author: TheRealMasterChief117
+  changes:
+    - type: Tweak
+      message: Bomber jackets are now insulative, like winter coats
+  id: 2289
+  time: '2026-06-13T00:32:16.0000000+00:00'
+  url: https://github.com/Triad-Sector/Triad_Sector/pull/214
