@@ -368,7 +368,7 @@
     - MedicalTrackingImplanter
     - LightImplanter
     - SadTromboneImplanter
-    - TrackingImplanter
+    # - TrackingImplanter # Triad, (this is TSF's Implants in mono)
     chance: 1.0
     offset: 0.0
     rarePrototypes:
