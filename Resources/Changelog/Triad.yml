@@ -1853,3 +1853,16 @@ Entries:
   id: 2320
   time: '2026-06-21T07:19:29.0000000+00:00'
   url: https://github.com/Triad-Sector/Triad_Sector/pull/196
+- author: rebaserHEAD
+  changes:
+    - type: Fix
+      message: >-
+        Hostile drones no longer self-pilot across the sector into safe zones
+        when no players are nearby.
+    - type: Tweak
+      message: >-
+        Reduced hostile drone target-detection and wake ranges back to their
+        pre-2x values.
+  id: 2321
+  time: '2026-06-21T07:53:08.0000000+00:00'
+  url: https://github.com/Triad-Sector/Triad_Sector/pull/244
