@@ -1882,3 +1882,13 @@ Entries:
   id: 2323
   time: '2026-06-22T15:53:04.0000000+00:00'
   url: https://github.com/Triad-Sector/Triad_Sector/pull/246
+- author: Minerva
+  changes:
+    - type: Tweak
+      message: >-
+        Fax machines are now far faster for sending and copying. In roughly the
+        time it would take you to change the destination, you can send another
+        fax.
+  id: 2324
+  time: '2026-06-23T01:34:57.0000000+00:00'
+  url: https://github.com/Triad-Sector/Triad_Sector/pull/247
