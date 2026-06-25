@@ -1956,3 +1956,17 @@ Entries:
   id: 2331
   time: '2026-06-25T21:20:22.0000000+00:00'
   url: https://github.com/Triad-Sector/Triad_Sector/pull/262
+- author: TheRealMasterChief117
+  changes:
+    - type: Add
+      message: >-
+        Added Bunk beds as constructible objects. You can use a crowbar on bunk
+        beds to change their orientation now.
+    - type: Tweak
+      message: >-
+        Bunk beds offset you correctly, making it so two spacemen laying on a
+        bunk bed do not looked stacked on top of eachother, but rather on the
+        correct mattress.
+  id: 2332
+  time: '2026-06-25T21:20:34.0000000+00:00'
+  url: https://github.com/Triad-Sector/Triad_Sector/pull/263
