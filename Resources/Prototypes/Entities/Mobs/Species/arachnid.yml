@@ -141,6 +141,6 @@
   - type: HumanoidAppearance
     species: Arachnid
   - type: Inventory
-    speciesID: arachnid
+    speciesId: arachnid
 
 #>88w88<
