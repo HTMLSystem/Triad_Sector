@@ -2023,3 +2023,18 @@ Entries:
   id: 2339
   time: '2026-06-30T00:32:37.0000000+00:00'
   url: https://github.com/Triad-Sector/Triad_Sector/pull/271
+- author: TheRealMasterChief117
+  changes:
+    - type: Fix
+      message: >-
+        Fixed the HZD Squire and HZD Stiletto not having a do-after for toggling
+        their attachments.
+    - type: Tweak
+      message: Made the Stiletto have a 1.5 second do-after, from 0.5 seconds.
+    - type: Tweak
+      message: >-
+        The HZD Squire has less angle decay while the stock is folded, make it
+        slightly harder to control unfolded.
+  id: 2340
+  time: '2026-06-30T01:47:19.0000000+00:00'
+  url: https://github.com/Triad-Sector/Triad_Sector/pull/272
