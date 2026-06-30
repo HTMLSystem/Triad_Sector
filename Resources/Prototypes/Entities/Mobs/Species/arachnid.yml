@@ -140,5 +140,7 @@
   components:
   - type: HumanoidAppearance
     species: Arachnid
+  - type: Inventory
+    speciesID: arachnid
 
 #>88w88<
